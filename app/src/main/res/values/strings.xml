@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">learningapp</string>
+    <string name="samplestorytitle">SampleStoryTitle</string>
+    <string name="sample_story_content_description">Sample story content Description</string>
+    <string name="image">image</string>
+    <string name="textview">TextView</string>
+    <string name="samplestory">samplestory</string>
+    <string name="samplestorycontent">samplestorycontent</string>
+</resources>

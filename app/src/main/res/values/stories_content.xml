@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="story_content">
+        <item>
+            Python is a widely used
+            general-purpose, high level programming language.
+            It was created by Guido van Rossum in 1991 and further developed by the Python
+            Software Foundation. It was designed with an emphasis on code readability
+            and its syntax allows programmers to express their
+            concepts in fewer lines of code.
+        </item>
+        <item>
+            A function is a block of organized, reusable code that is used to perform a single, related action. Functions provide
+            better modularity for your application
+            and a high degree of code reusing.
+            As you already know, Python gives you many built-in functions
+            like print(), etc. but you can also create your own functions.
+            These functions are called user-defined functions.
+        </item>
+        <item>
+            We use open () function in Python to open a file in read or write mode.
+            As explained above, open ( ) will return a file object.
+            To return a file object we use open() function along with two arguments,
+            that accepts file name and the mode, whether to read or write.
+            So, the syntax being: open(filename, mode).
+            There are three kinds of mode, that Python provides
+            and how files can be opened
+            "r" for reading.
+            "w" for writing.
+            "a" for appending.
+            "r+" for both reading and writing.
+        </item>
+        <item>
+        According to the structure theorem, any computer program can be written using the basic control structures .
+        A control structure (or flow of control) is a block of programming that analyses variables and
+        chooses a direction in which to go based on given parameters.
+        In simple sentence, a control structure is just a decision
+        that the computer makes.
+        So, it is the basic decision-making process in programming and
+        flow of control determines how a computer program will respond
+        when given certain conditions and parameters.
+        </item>
+    </string-array>
+</resources>

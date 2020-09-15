@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_title">
+        <item>Introduction</item>
+        <item>Functions</item>
+        <item>Files</item>
+        <item>Control Structures</item>
+    </string-array>
+</resources>
